@@ -1,0 +1,10 @@
+git init
+git remote-v
+git remote -v
+rm -rf .git
+git remote -v
+git init
+git branch -m main
+git branch
+git commit -m "first commit"
+git add .
